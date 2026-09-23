@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\DivisorFrecuencia\simulation\qsim
+vDivisorFrecuencia
+Z1 !s100 g4AGfeaRO5]bkJ[YGV1YK0
+Z2 Ian;<SD_H2V0<M4Id<A9^12
+Z3 Vc9@Kel6Ff`ojhjMDJVEHO2
+Z4 dC:\altera\13.1\DivisorFrecuencia\simulation\qsim
+Z5 w1789078472
+Z6 8DivisorFrecuencia.vo
+Z7 FDivisorFrecuencia.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|DivisorFrecuencia.vo|
+Z10 o-work work -O0
+Z11 n@divisor@frecuencia
+!i10b 1
+!s85 0
+Z12 !s108 1789078473.725000
+Z13 !s107 DivisorFrecuencia.vo|
+!s101 -O0
+vDivisorFrecuencia_vlg_check_tst
+!i10b 1
+Z14 !s100 JTSd1DD[L^6[03b0>zh@o2
+Z15 IS`k1UU;mUMKGzlM;=?F2^2
+Z16 V=SSMoEDBag1c0F>T>dDUb1
+R4
+Z17 w1789078470
+Z18 8Waveform.vwf.vt
+Z19 FWaveform.vwf.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z20 !s108 1789078473.896000
+Z21 !s107 Waveform.vwf.vt|
+Z22 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+Z23 n@divisor@frecuencia_vlg_check_tst
+vDivisorFrecuencia_vlg_sample_tst
+!i10b 1
+Z24 !s100 9?zNeL`SAKke^^H_UiQQk1
+Z25 IJ1K=bz1mRc`D1:85nK[G30
+Z26 V90WIgISzeb5l]9hI54<ge1
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@divisor@frecuencia_vlg_sample_tst
+vDivisorFrecuencia_vlg_vec_tst
+!i10b 1
+Z28 !s100 gCXh;iez^0JYCSBifiCaP2
+Z29 IDE82NTaA^]FGCbU[F;a011
+Z30 VCMmz6<BcC2@:XnP<ePTIC0
+R4
+R17
+R18
+R19
+Z31 L0 179
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@divisor@frecuencia_vlg_vec_tst
