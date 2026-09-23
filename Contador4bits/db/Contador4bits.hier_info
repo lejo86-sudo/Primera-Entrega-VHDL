@@ -1,0 +1,19 @@
+|Contador4bits
+Clock => CNT_int[0].CLK
+Clock => CNT_int[1].CLK
+Clock => CNT_int[2].CLK
+Clock => CNT_int[3].CLK
+Reset => CNT_int[0].ACLR
+Reset => CNT_int[1].ACLR
+Reset => CNT_int[2].ACLR
+Reset => CNT_int[3].ACLR
+EN => CNT_int[0].ENA
+EN => CNT_int[3].ENA
+EN => CNT_int[2].ENA
+EN => CNT_int[1].ENA
+CNT[0] <= CNT_int[0].DB_MAX_OUTPUT_PORT_TYPE
+CNT[1] <= CNT_int[1].DB_MAX_OUTPUT_PORT_TYPE
+CNT[2] <= CNT_int[2].DB_MAX_OUTPUT_PORT_TYPE
+CNT[3] <= CNT_int[3].DB_MAX_OUTPUT_PORT_TYPE
+
+

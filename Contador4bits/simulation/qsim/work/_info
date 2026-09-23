@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\Contador4bits\simulation\qsim
+vContador4bits
+Z1 I0E3C0X6zZ?KdC3Jd[Y8O20
+Z2 VI7;f4]GMAa4f:<8<62[1@1
+Z3 dC:\altera\13.1\Contador4bits\simulation\qsim
+Z4 w1789079069
+Z5 8Contador4bits.vo
+Z6 FContador4bits.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@contador4bits
+!i10b 1
+Z10 !s100 ]b7;WJMFjM0<IWCz_l>[X0
+!s85 0
+Z11 !s108 1789079070.514000
+Z12 !s107 Contador4bits.vo|
+Z13 !s90 -work|work|Contador4bits.vo|
+!s101 -O0
+vContador4bits_vlg_check_tst
+!i10b 1
+!s100 Jk=Lc[;_?2?5A]i8]KbY]0
+IEY1WcSG@M3UGP6O_Ulzg[3
+V3:`o9e@9h`>Pn8d;3aYz^0
+R3
+Z14 w1789079068
+Z15 8Waveform.vwf.vt
+Z16 FWaveform.vwf.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1789079070.670000
+Z18 !s107 Waveform.vwf.vt|
+Z19 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R8
+n@contador4bits_vlg_check_tst
+vContador4bits_vlg_sample_tst
+!i10b 1
+!s100 J[_Zj_b2E@BiPa^JB@OX:3
+IZ<iFlgC]lfIX<2RBOBakf0
+VWmn]gfGDV8=k?kan1U;:31
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@contador4bits_vlg_sample_tst
+vContador4bits_vlg_vec_tst
+!i10b 1
+!s100 _T^TNXQoYfSEAzbB9J:Lm0
+IkOO:7b4T<oCUzT`WE]FA?2
+VCbMLeGf<2jf1T3R>0A?9b1
+R3
+R14
+R15
+R16
+L0 209
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@contador4bits_vlg_vec_tst
